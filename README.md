@@ -1,9 +1,15 @@
 # HTML-Class-Assignment
 
+
+
+---
+
 Resident Raver
 
 Resident Raver is a 2D action-platformer made with ImpactJS. You play as a character exploring the first level (dorm1) while fighting zombies. A basic level editor (Weltmeister) is included so you can create and test levels later.
 
+
+---
 
 How to Play
 
@@ -17,6 +23,8 @@ Open index.html in a browser to launch the game.
 
 
 
+---
+
 Project Structure
 
 index.html → Starts the game
@@ -29,7 +37,7 @@ media/ → Fonts, images, sprites
 
 
 
-
+---
 
 Features
 
@@ -43,6 +51,7 @@ Extendable: add your own enemies, levels, and UI
 
 
 
+---
 
 Next Steps
 
@@ -56,6 +65,4 @@ Make the game ready for web or desktop
 
 ---
 
-If you want, I can also rewrite it in an even more unique style, like you’re casually explaining it in your own words, which will make it almost impossible to match your friend’s.
 
-Do you want me to do that version too?
